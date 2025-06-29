@@ -1,4 +1,4 @@
-# AI-ML-Powered-Credit-Delinquency-Risk-Prediction-Intervention-Strategy-Framework
+# Gen AI- Data analytics-ML-Powered-Credit-Delinquency-Risk-Prediction-Intervention-Strategy-Framework
 
 Geldium Finance aims to reduce its high credit card delinquency rate by leveraging advanced analytics and GenAI-powered models. This project focuses on analyzing customer data to identify behavioral patterns and risk factors contributing to payment defaults. By developing a transparent and fair AI-driven predictive model, we forecast the likelihood of delinquency at the individual customer level. The insights derived  in executing personalized, data-backed intervention strategies—improving recovery rates, enhancing customer experience, and aligning with regulatory best practices in financial risk management.
 
